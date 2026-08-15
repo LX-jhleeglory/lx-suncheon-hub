@@ -24,9 +24,6 @@ export const Header: React.FC<HeaderProps> = ({ onOpenQr, onShare }) => {
                 한국국토정보공사
               </span>
               <span className="inline-block w-1 h-1 rounded-full bg-gray-300"></span>
-              <span className="text-xs text-gray-500 font-medium">
-                순천지사
-              </span>
             </div>
             <span className="text-[13px] text-xs text-gray-500 font-medium">
               순천지사
