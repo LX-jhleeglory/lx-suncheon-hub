@@ -2,7 +2,7 @@ import { OSGuide, ServiceItem } from '../types';
 
 export const TARGET_WEBSITE_URL = 'https://lx-suncheon-page.vercel.app/';
 export const SUNCHEON_PHONE = '061-804-6360';
-export const SUNCHEON_ADDRESS = '전라남도 순천시 팔마로 170 (조곡동) 한국국토정보공사 순천지사';
+export const SUNCHEON_ADDRESS = '전라남도 순천시 대석길 49 (연향동) 한국국토정보공사 순천지사';
 
 export const OS_GUIDES: Record<string, OSGuide> = {
   ios: {
