@@ -28,8 +28,8 @@ export const Header: React.FC<HeaderProps> = ({ onOpenQr, onShare }) => {
                 순천지사
               </span>
             </div>
-            <span className="text-[13px] sm:text-sm font-bold text-slate-900 mt-0.5">
-              모바일 진입 허브
+            <span className="text-[13px] text-xs text-gray-500 font-medium">
+              순천지사
             </span>
           </div>
         </div>
