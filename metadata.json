@@ -1,0 +1,7 @@
+{
+  "name": "LX 순천지사 진입 허브",
+  "description": "LX 한국국토정보공사 순천지사 공식 모바일 진입 허브 - 홈 화면 앱 추가 및 모바일 웹 바로가기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
